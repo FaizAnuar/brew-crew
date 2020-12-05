@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33652152445",
+    "firebase_url": "https://faiz-brew-crew-8fee7.firebaseio.com",
+    "project_id": "faiz-brew-crew-8fee7",
+    "storage_bucket": "faiz-brew-crew-8fee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33652152445:android:ac4e6d7b4eb5ce0a4c7914",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33652152445-r2gblkfh287k7va8qcdq82qlj5to9a1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1tVq0azXsyqM08fh-CIVOMOm4I0Ws6pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33652152445-r2gblkfh287k7va8qcdq82qlj5to9a1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
